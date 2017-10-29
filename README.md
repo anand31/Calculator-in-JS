@@ -13,6 +13,7 @@ This is a simple calculator which performs addition, subtraction, multiplication
 3. Open Terminal.
 4. Change the current working directory to the location where you want the cloned directory to be made.
 5. Type `git clone`, and then paste the URL you copied in Step 2.
+It should look something like this:
 ```
 git clone git@github.com:aurobindodebnath/Calculator-in-JS.git 
 ```
